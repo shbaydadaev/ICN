@@ -43,9 +43,13 @@ Result of test part
 ![](/images/classification.PNG)
 
 We can check the VOR gain values and predict the class of each impulse. 
+
 Artifact_high_gain – 100%
 ![](/images/Figure_131.png) 
 Normal class is detected 93.44%
 ![](/images/Figure_181.png) 
 Artifact_phase_shift – 98.72%
 ![](/images/Figure_211.png)
+
+
+
