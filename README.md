@@ -42,3 +42,5 @@ $ python test.py -m ./data/yourmodel.h5 -l lables.pickle -i impulse.csv
 Result of test part
 ![](/images/classification.PNG)
 
+We can check the VOR gain values and predict the class of each impulse. 
+
