@@ -13,4 +13,14 @@ a)
 ![](/images/normal_impulses.png)
 
 b)
-![](/images/artifact_impulses.png width=400) 
+![](/images/artifact_impulses.png) 
+
+
+Four type of classes
+----------------------------
+1	Normal	1081
+2	Abnormal	804
+3	Artifact_phase_shift	797
+4	Artifact_high_gain	1115
+----------------------------
+Total	3797
