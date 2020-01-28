@@ -13,4 +13,4 @@ a)
 ![](/images/normal_impulses.png {:height="700px" width="400px")
 
 b)
-![](/images/artifact_impulses.png width="400") 
+![](/images/artifact_impulses.png width=400) 
