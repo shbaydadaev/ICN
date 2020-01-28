@@ -20,10 +20,11 @@ b)
 ----------------------------
 Four type of classes
 
-1	Normal	1081
-2	Abnormal	804
-3	Artifact_phase_shift	797
-4	Artifact_high_gain	1115
+Normal	1081
+Abnormal	804
+Artifact_phase_shift	797
+Artifact_high_gain	1115
 
 Total	3797
 ----------------------------
+
