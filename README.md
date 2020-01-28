@@ -31,10 +31,10 @@ Total	3797 impulses
 Training part
 --------------
 
-# python train.py -l labels.pickle
+$ python train.py -l labels.pickle
 
 Test part
 ----------
 
-# python test.py -m ./data/yourmodel.h5 -l lables.pickle -i test.csv
+$ python test.py -m ./data/yourmodel.h5 -l lables.pickle -i test.csv
 
