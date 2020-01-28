@@ -10,7 +10,7 @@ We provide train and test python files. We created our dataset which came from t
 Lateral canal test type: left side vHIT data with a) normal and b) artifact impulses
 
 a)
-![](/images/normal_impulses.png width="400")
+![](/images/normal_impulses.png =400x400)
 
 b)
 ![](/images/artifact_impulses.png width="400") 
