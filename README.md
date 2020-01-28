@@ -20,11 +20,11 @@ b)
 ----------------------------
 Four type of classes
 
-Normal	1081
-Abnormal	804
-Artifact_phase_shift	797
-Artifact_high_gain	1115
+Normal - 1081
+Abnormal -	804
+Artifact_phase_shift - 797
+Artifact_high_gain - 1115
 
-Total	3797
+Total	3797 impulses
 ----------------------------
 
