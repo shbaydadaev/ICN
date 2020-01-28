@@ -5,3 +5,12 @@ This research proposes the Impulse Classification Network (ICN) using 1D Convolu
 
 
 We provide train and test python files. We created our dataset which came from the ICS goggle device.
+
+
+Lateral canal test type: left side vHIT data with a) normal and b) artifact impulses
+
+a)
+![Alt text](/images/normal_impulses.png)
+
+b)
+![Alt text](/images/artifact_impulses.png)
