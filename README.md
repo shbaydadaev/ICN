@@ -17,24 +17,28 @@ a)
 b)
 ![](/images/artifact_impulses.png) 
 
-----------------------------
-Four type of classes
 
+Four type of classes
 Normal - 1081,
 Abnormal -	804,
 Artifact_phase_shift - 797,
 Artifact_high_gain - 1115
-
 Total	3797 impulses
 ----------------------------
+
 
 Training part
 --------------
 
 $ python train.py -l labels.pickle
 
+
 Test part
 ----------
 
-$ python test.py -m ./data/yourmodel.h5 -l lables.pickle -i test.csv
+$ python test.py -m ./data/yourmodel.h5 -l lables.pickle -i impulse.csv
+
+
+Result of test part
+![](/images/classification.PNG)
 
