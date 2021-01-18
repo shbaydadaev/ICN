@@ -9,10 +9,10 @@ We provide train and test python files. We created our dataset which came from t
 
 Lateral canal test type: left side vHIT data with a) normal and b) artifact impulses
 
-a)
+- [x]
 ![](/images/normal_impulses.png)
 
-b)
+- [x]
 ![](/images/artifact_impulses.png) 
 
 
@@ -25,18 +25,17 @@ Total	3797 impulses
 ----------------------------
 
 
-Training part
---------------
+## Training part
 
 ```bash 
-  python train.py -l labels.pickle
+python train.py -l labels.pickle
 ```
 
-Test part
-----------
+## Test part
 
-$ python test.py -m ./data/yourmodel.h5 -l lables.pickle -i impulse.csv
-
+``` bash
+python test.py -m ./data/yourmodel.h5 -l lables.pickle -i impulse.csv
+```
 
 Result of test part
 ![](/images/classification.PNG)
