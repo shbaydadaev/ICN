@@ -52,3 +52,7 @@ Artifact_phase_shift – 98.72%
 
 
 Dataset will upload soon!!!
+
+_labels_ready_new.csv - classes
+_left_ready.csv - impulses :EYE raw data
+                           :HEAD raw data
